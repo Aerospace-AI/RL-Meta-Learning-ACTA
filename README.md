@@ -6,7 +6,7 @@
   journal={arXiv preprint arXiv:1904.09865},
   year={2019}
 }
-# Note: Unfortunately, the Mars DTM and RQ-36 shape model used for the navigation experiments are too large to fit on github
+
 ## virtual environment should include:
 ### Pytorch 
 ### Python 3.5
