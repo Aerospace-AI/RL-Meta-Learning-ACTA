@@ -1,10 +1,11 @@
-# Code for  "Adaptive Guidance and Integrated Navigation with Reinforcement Meta-Learning"
+# Code for  ["Adaptive Guidance and Integrated Navigation with Reinforcement Meta-Learning"](https://arxiv.org/abs/1904.09865)
 # If you use this code in your research, please cite:
-@article{gaudet2019adaptive,
+@article{gaudet2020adaptive,
   title={Adaptive Guidance and Integrated Navigation with Reinforcement Meta-Learning},
   author={Gaudet, Brian and Linares, Richard and Furfaro, Roberto},
-  journal={arXiv preprint arXiv:1904.09865},
-  year={2019}
+  journal={Acta Astronautica},
+  year={2020},
+  publisher={Elsevier}
 }
 
 ## virtual environment should include:
