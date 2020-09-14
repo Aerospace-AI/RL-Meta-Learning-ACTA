@@ -1,4 +1,4 @@
-# Code for  ["Adaptive Guidance and Integrated Navigation with Reinforcement Meta-Learning"](https://arxiv.org/abs/1904.09865)
+# Code for  ["Adaptive Guidance and Integrated Navigation with Reinforcement Meta-Learning"](https://doi.org/10.1016/j.actaastro.2020.01.007)
 # If you use this code in your research, please cite:
 @article{gaudet2020adaptive,
   title={Adaptive Guidance and Integrated Navigation with Reinforcement Meta-Learning},
